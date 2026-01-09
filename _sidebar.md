@@ -1,0 +1,32 @@
+- **Getting Started**
+  - [Welcome](/)
+  - Frameworks
+    - [AI-Native Engineering Model](frameworks/AI_Native_Engineering_Model.md)
+    - [Six Capabilities](frameworks/Six_Capabilities.md)
+    - [Traditional to Builder Mapping](frameworks/Traditional_to_Builder_Mapping.md)
+
+- **Role Definitions**
+  - Job Descriptions
+    - [Master Builder](job-descriptions/Master_Builder.md)
+    - [Builder (Delivery)](job-descriptions/Builder_Delivery.md)
+    - [Builder (Exploration)](job-descriptions/Builder_Exploration.md)
+    - [Apprentice](job-descriptions/Apprentice.md)
+
+- **Talent Acquisition**
+  - Hiring
+    - [Builder Interview Guide](hiring/Builder_Interview_Guide.md)
+    - Interview Scorecards
+      - [Master Builder Scorecard](hiring/Master_Builder_Scorecard.md)
+      - [Builder Scorecard](hiring/Builder_Scorecard.md)
+      - [Apprentice Scorecard](hiring/Apprentice_Scorecard.md)
+
+- **Talent Development**
+  - Assessment
+    - [Six Capabilities Rubric](assessment/Six_Capabilities_Rubric.md)
+    - [Builder Readiness Assessment](assessment/Builder_Readiness_Assessment.md)
+    - [Master Builder Readiness Assessment](assessment/Master_Builder_Readiness_Assessment.md)
+  - Career Development
+    - [Builder Career Overview](career-development/Builder_Career_Overview.md)
+    - Progression Guides
+      - [Apprentice to Builder](career-development/Apprentice_to_Builder_Guide.md)
+      - [Builder to Master Builder](career-development/Builder_to_Master_Builder_Guide.md)
